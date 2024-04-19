@@ -33,7 +33,7 @@
 
         <meta-data
             android:name="com.amap.api.v2.apikey"
-            android:value="ec988f8ebdbf76bdb278a7f3c270c4ea" /> <!-- 定位service -->
+            android:value="your key" /> <!-- 定位service -->
         <service android:name="com.amap.api.location.APSService" />
 
         <activity
