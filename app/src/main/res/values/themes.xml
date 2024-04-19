@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.GaodeMap" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="DetailTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FFF</item>
+        <item name="colorPrimaryDark">#FFF</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
